@@ -265,7 +265,7 @@ SQL注入
 任意上传
 ```
 
-+ Zimbra [ XXE + SSRF = RCE ]
++ Zimbra [ XXE + SSRF => RCE ]
 ```
 CVE-2013-7091
 CVE-2016-9924
