@@ -74,10 +74,10 @@ fofa / shodan / bing / google  hacking 深度利用
 根据前面已搜集到的各类信息制作有针对性的弱口令字典
 目标所用 Waf 种类识别 与 绕过
 BypassWAF 文件上传 / 读取 / 下载
-	BypassWAF Sql注入
-	BypassWAF RCE
-	BypassWAF 各类Java Web中间件已知Nday漏洞利用
-	BypassWAF Webshell 免杀
+   BypassWAF Sql注入
+   BypassWAF RCE
+   BypassWAF 各类Java Web中间件已知Nday漏洞利用
+   BypassWAF Webshell 免杀
 	
 其它更多 , 待补充修正...
 ```
