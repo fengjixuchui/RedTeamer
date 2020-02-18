@@ -180,7 +180,7 @@ CVE-2015-3337 [任意文件读取]
 
 + RabbitMQ
 ```
-5.12 之前的版本 fileserver存在 PUT任意写
+弱口令
 ```
 
 + Glassfish
@@ -202,7 +202,7 @@ Java 反序列化
 ```
 + Apache ActiveMQ
 ```
-未授权访问,PUT任意写 [ 针对老版本 ]
+未授权访问,5.12 之前的版本 fileserver存在 PUT任意写
 CVE-2015-5254
 ```
 
