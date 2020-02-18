@@ -722,8 +722,8 @@ linux 自带的ssh客户端工具套件, 默认就可以用来进行远程执行
 
 * 各种远程下载技巧
 ```
-wget.exe [win & linux]
-curl.exe [win & linux]
+wget [win & linux]
+curl [win & linux]
 ```
 ```
 之所以没着重提以下这些系统内置远程下载执行工具,主要还是因为事先已经明确知道
