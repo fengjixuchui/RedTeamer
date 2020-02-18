@@ -148,7 +148,7 @@ CVE-2017-12149
 控制台弱口令,部署webshell
 ```
 
-+ wildfly [jboss 7.x 改名为 wildfly]
++ wildfly [ jboss 7.x 改名为 wildfly ]
 ```
 控制台弱口令,部署webshell
 ```
@@ -158,7 +158,7 @@ CVE-2017-12149
 CVE-2016-8735
 CVE-2017-12615 [ readonly 实际设为 true的情况较少]
 
-控制台弱口令,部署webshelll [注: 7.x版本后,默认加了防爆机制]
+控制台弱口令,部署webshelll [ 注: 7.x版本后,默认加了防爆机制 ]
 ```
 
 + Jekins
