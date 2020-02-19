@@ -780,10 +780,9 @@ Patch SSH
 
 ### 0x12 各类常用 C2 / 渗透 框架
 ```	
-CobaltStrike
+CobaltStrike [二次开发]
   payload(beacon) 逆向/改进重写
-Metasploit
-Empire
+Metasploit [二次开发]
 ......
 ```
 
