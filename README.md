@@ -236,7 +236,7 @@ phpcms 		后台弱口令,系列已知nday漏洞利用
 ecshop 		后台弱口令,系列已知nday漏洞利用
 Metinfo 	后台弱口令,系列已知nday漏洞利用
 discuz 		后台弱口令,系列已知nday漏洞利用
-帝国cms 	      	后台弱口令,系列已知nday漏洞利用
+帝国cms 	      后台弱口令,系列已知nday漏洞利用
 phpmyadmin 	数据库弱口令,系列已知nday漏洞利用
 wordpress 	后台弱口令,系列已知nday漏洞利用
 joomla 		后台弱口令,系列已知nday漏洞利用
@@ -445,7 +445,7 @@ CVE-2019-13272
 Mssql 						    [重点]
 Oracle         					    [重点]
 Mysql
-各类第三方软件dll劫持 				    [重点]
+各类第三方软件dll劫持 				     [重点]
 suid权限                        
 计划任务
 各种错误服务配置
