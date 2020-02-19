@@ -236,7 +236,7 @@ phpcms 		后台弱口令,系列已知nday漏洞利用
 ecshop 		后台弱口令,系列已知nday漏洞利用
 Metinfo 	后台弱口令,系列已知nday漏洞利用
 discuz 		后台弱口令,系列已知nday漏洞利用
-帝国cms 	 后台弱口令,系列已知nday漏洞利用
+帝国cms 	后台弱口令,系列已知nday漏洞利用
 phpmyadmin 	数据库弱口令,系列已知nday漏洞利用
 wordpress 	后台弱口令,系列已知nday漏洞利用
 joomla 		后台弱口令,系列已知nday漏洞利用
@@ -432,7 +432,7 @@ MS17-010[KB4013389]				    [重点]
 cve-2019-0708					    [重点]
 CVE-2019-0803					    [重点]
 CVE-2019-1322 & CVE-2019-1405			    [重点]
-cve-2019-12750 [ 赛门铁克(用的挺多)本地提权 ]	  [重点]		
+cve-2019-12750 [ 赛门铁克(用的挺多)本地提权 ]	   [重点]		
 ```
 * linux 内核漏洞 本地提权 [ linux-exploit-suggester ]
 ```
