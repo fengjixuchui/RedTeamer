@@ -584,23 +584,23 @@ Hashcat [完全拼GPU]
 比如,http,dns,以及一些穿透性相对较好的tcp端口... 
 这种操作一般都会配合wmi,smb,ssh远程执行,在内网批量快速识别出能出网的机器
 
-常规http脚本代理
+常规 HTTP脚本代理
 abptts,Neo-reGeorg,reGeorg,tunna,reduh...
 不得不说,公开脚本在实战中多多少少都会有些问题,还需要根据自己的实际目标环境深度改进才行
 
-SSH隧道
+SSH 隧道
 加密端口转发,socks 实战用途非常灵活,此处不细说 ]
 
-Rdp隧道
+Rdp 隧道
 
-反向socks5
+反向SOCKS
 nps, frp, ssf, CobaltStrike(socks4a & rportfwd ), sscoks ... 
 工具基本都不免杀了,需要自行处理
 
-正反向tcp端口转发
+正反向TCP 端口转发
 非常多,就不一一列举, eg: nginx,netsh,socat,ew....
 
-dns加密隧道			
+DNS加密隧道			
 
 Web端口复用
 
@@ -697,7 +697,7 @@ DCOM 远程执行 [ 需要目标Windows机器事先已关闭防火墙 ]
 利用MSSQL数据库存储过程来变相远程执行
 利用Oracle数据库存储过程来变相远程执行
 SMB [ PTH (hash传递) ]
-RDP[MSTSC] 反向渗透 [ 即可用于突破某些隔离, 亦可通过云(Windows vps)直接反控到目标管理员个人机 ]
+RDP[MSTSC] 反向渗透 [ 即可用于突破某些隔离, 亦可通过云(Windows vps)直接反控目标管理员个人机 ]
 利用补丁服务器下发执行
 利用EDR主控端定向下发执行
 ```
